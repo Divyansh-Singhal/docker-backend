@@ -1,1 +1,1 @@
-web: python guiserver.py
+web: python main.py
